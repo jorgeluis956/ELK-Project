@@ -51,7 +51,7 @@ Only the JumpBox machine can accept connections from the Internet. Access to thi
 
 Machines within the network can only be accessed by SSH.
 
-The machine that is ale to connect to the Elk Server (10.1.0.5) is the Jump-Box (10.0.0.4)
+The machine that is able to connect to the Elk Server (10.1.0.5) is the Jump-Box (10.0.0.4)
 
 
 A summary of the access policies in place can be found in the table below.
